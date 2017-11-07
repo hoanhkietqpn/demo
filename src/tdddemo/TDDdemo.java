@@ -20,7 +20,7 @@ public class TDDdemo {
         System.out.println("8: " + Rating.Rating(8));
         System.out.println("7: " + Rating.Rating(7));
         System.out.println("5: " + Rating.Rating(5));
-        System.out.println("4: " + Rating.Rating(4))
+        System.out.println("4: " + Rating.Rating(4));
         //exellence
     }
     
