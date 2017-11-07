@@ -17,7 +17,6 @@ public class TDDdemo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("10: " + Rating.Rating(10));
-        afsadf
         System.out.println("8: " + Rating.Rating(8));
         System.out.println("7: " + Rating.Rating(7));
         System.out.println("5: " + Rating.Rating(5));
